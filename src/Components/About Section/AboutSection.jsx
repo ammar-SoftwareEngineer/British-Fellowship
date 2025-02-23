@@ -7,7 +7,7 @@ function AboutSection() {
   const { t } = useTranslation();
   return (
     <div
-      className="flex items-center justify-center min-h-screen  px-6 relative"
+      className="flex items-center justify-center min-h-screen py-24  px-6 relative"
       data-aos="fade-up"
     >
       {/* Social Icons */}

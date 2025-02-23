@@ -21,7 +21,7 @@ function HeroSection() {
   const { t} = useTranslation();
 
   return (
-    <div className=" min-h-screen !mt-0 !pt-0 ">
+    <div className=" min-h-screen  ">
       {/* Swiper Slider */}
       <Swiper
         spaceBetween={0}
@@ -57,7 +57,7 @@ function HeroSection() {
       </Swiper>
 
       {/* Overlay */}
-      <div className="absolute inset-0 bg-black/50 z-20"></div>
+      <div className="absolute inset-0 bg-black/50 z-20 min-h-screen"></div>
 
       {/* Content Home*/}
       <div className="absolute inset-0 z-30 flex flex-col items-center justify-center text-center text-white px-6">
