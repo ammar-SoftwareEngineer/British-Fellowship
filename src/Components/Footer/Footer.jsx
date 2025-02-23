@@ -28,7 +28,7 @@ function Footer() {
             animate={{ opacity: 1, x: 0 }}
             transition={{ duration: 0.8, delay: 0.2 }}
           >
-            <img src={logo} alt="RCOG Logo" className="mx-auto md:mx-0 w-20" />
+            <img src={logo} alt="RCOG Logo" className=" w-20" />
             <p className="mt-4 text-sm ">{t("footer.logo_text")}</p>
           </motion.div>
 
