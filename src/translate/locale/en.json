@@ -1,0 +1,92 @@
+{
+  "logo": "Logo",
+  "navigation": {
+    "Home": "Home",
+    "About Us": "About Us",
+    "Courses": "Courses",
+    "News": "News",
+    "Contact": "Contact",
+    "Events": "Events",
+    "Gallery": "Gallery",
+    "language": "ARABIC",
+    "item": "Item"
+  },
+  "slider": {
+    "slide1": "Slide 1",
+    "slide2": "Slide 2",
+    "slide3": "Slide 3"
+  },
+  "welcome": "Welcome To ",
+  "ERC-RCOG": "ERC-RCOG",
+  "sections": {
+    "courses": "Courses",
+    "events": "Events",
+    "students": "Students",
+    "about_us": "About Us"
+  },
+  "about": {
+    "title.part1": "Our RCOG System",
+    "title.part2": "Inspires",
+    "title.part3": "You More.",
+    "description": "Education and Training: We organize conferences, workshops, and educational courses to ensure healthcare professionals have access to the latest advancements and best practices in obstetrics and gynecology.",
+    "discover_more": "DISCOVER MORE"
+  },
+  "courses_section": {
+    "title": "Our Courses",
+    "title.part1": "Our",
+    "title.part2": "Courses",
+
+    "revision_course": {
+      "title": "Revision courses MRCOG",
+      "category": "Category of Course",
+      "date": "Date Instead",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected content.",
+      "join": "JOIN COURSE",
+      "details": "DETAILS",
+      "mode": "Online",
+      "status": "Active",
+      "speciality": "Speciality"
+    },
+    "more_courses": "MORE COURSES"
+  },
+  "gallery": {
+    "title": "Our Photo Gallery",
+    "title.part1": "Our Photo ",
+    "title.part2": "Gallery",
+    "image1": "Image 1",
+    "image2": "Image 2",
+    "image3": "Image 3"
+  },
+  "blog": {
+    "title": "Our Blog",
+    "title.part1": "Latest News & ",
+    "title.part2": " Blog",
+    "article": {
+      "title": "There Are Many Variations of Passages Available.",
+      "date": "June 18, 2024",
+      "author": "By Alicia Davis",
+      "comments": "Comments",
+      "description": "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form by injected content.",
+      "read_more": "Read More"
+    }
+  },
+  "footer": {
+    "logo_text": "We are many variations of passages available, but the majority have suffered alteration in some form by injected humor and believable words.",
+    "quick_links": "Quick Links",
+    "our_courses": "Our Courses",
+    "contact_us": "Contact Us",
+    "address": "9 A Al Aanab Street, Ad Duqqi, Egypt, 12611",
+    "email": "info@RCOG.com",
+    "phone": "+2010 04908240",
+    "copyright": "© Copyright 2025 ",
+    "copyright.part1": " RCOG ",
+    "copyright.part2": " All Rights Reserved."
+  },
+  "courses": {
+    "Training courses MRCOG": "Training courses MRCOG",
+    "Revision courses MRCOG": "Revision courses MRCOG",
+    "Franchise courses MRCOG": "Franchise courses MRCOG",
+    "Training (Hands-on / online)": "Training (Hands-on / online)",
+    "Webinars": "Webinars"
+  }
+}
